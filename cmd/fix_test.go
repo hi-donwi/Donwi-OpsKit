@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/remediation"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/remediation"
 )
 
 func TestParseTarget(t *testing.T) {

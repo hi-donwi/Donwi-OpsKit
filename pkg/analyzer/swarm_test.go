@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/sysexec"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/sysexec"
 )
 
 func TestParseSwarmServicesAndReplicas(t *testing.T) {

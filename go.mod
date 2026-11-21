@@ -1,4 +1,4 @@
-module github.com/hi-donwi/OPS-Toolkit
+module github.com/hi-donwi/Donwi-OpsKit
 
 go 1.26.0
 

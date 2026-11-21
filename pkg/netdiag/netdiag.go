@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // DNSCheckResult holds latency and status for a specific nameserver.

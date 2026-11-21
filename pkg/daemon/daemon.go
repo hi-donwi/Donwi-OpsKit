@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/analyzer"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/detector"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/analyzer"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/detector"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // DefaultSuppressWindow is how long a given finding stays suppressed after it

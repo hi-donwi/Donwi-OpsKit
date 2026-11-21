@@ -7,11 +7,11 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/ai"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/analyzer"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/detector"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/remediation"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/ai"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/analyzer"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/detector"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/remediation"
 )
 
 // Styling tokens using Lipgloss

@@ -24,9 +24,9 @@ ARG BUILD_DATE=unknown
 RUN CGO_ENABLED=0 GOOS=linux go build \
       -trimpath \
       -ldflags="-s -w \
-        -X 'github.com/hi-donwi/OPS-Toolkit/cmd.Version=${VERSION}' \
-        -X 'github.com/hi-donwi/OPS-Toolkit/cmd.GitCommit=${COMMIT}' \
-        -X 'github.com/hi-donwi/OPS-Toolkit/cmd.BuildDate=${BUILD_DATE}'" \
+        -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.Version=${VERSION}' \
+        -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.GitCommit=${COMMIT}' \
+        -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.BuildDate=${BUILD_DATE}'" \
       -o /opskit .
 
 # ---- Stage 2: runtime ------------------------------------------------------

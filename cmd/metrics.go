@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/exporter"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/exporter"
 	"github.com/spf13/cobra"
 )
 

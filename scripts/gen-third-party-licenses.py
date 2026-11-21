@@ -18,7 +18,7 @@ import sys
 # Platforms we publish binaries for.
 TARGETS = [("linux", "amd64"), ("linux", "arm64"), ("darwin", "amd64"), ("darwin", "arm64")]
 
-SELF = "github.com/hi-donwi/OPS-Toolkit"
+SELF = "github.com/hi-donwi/Donwi-OpsKit"
 THIRD_PARTY_PREFIXES = ("github.com/", "gopkg.in/", "golang.org/x/")
 
 

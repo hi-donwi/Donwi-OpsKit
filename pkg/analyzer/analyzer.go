@@ -17,9 +17,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/ai"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/sysexec"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/ai"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/sysexec"
 )
 
 // Engine orchestrates diagnostic rule evaluation across targets.

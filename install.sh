@@ -2,7 +2,7 @@
 #
 # opskit installer.
 #
-#   curl -fsSL https://raw.githubusercontent.com/hi-donwi/OPS-Toolkit/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/hi-donwi/Donwi-OpsKit/main/install.sh | bash
 #
 # Environment overrides:
 #   OPSKIT_VERSION   release tag to install, or "latest" (default)
@@ -13,7 +13,7 @@
 # masked by a later successful pipe stage.
 set -euo pipefail
 
-REPO="hi-donwi/OPS-Toolkit"
+REPO="hi-donwi/Donwi-OpsKit"
 BINARY_NAME="opskit"
 INSTALL_DIR="${INSTALL_DIR:-/usr/local/bin}"
 VERSION="${OPSKIT_VERSION:-latest}"

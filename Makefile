@@ -5,7 +5,7 @@ VERSION = 0.1.0
 COMMIT = $(shell git rev-parse --short HEAD 2>/dev/null || echo "dev")
 DATE = $(shell date -u +"%Y-%m-%dT%H:%M:%SZ")
 
-LDFLAGS = -s -w -X 'github.com/hi-donwi/OPS-Toolkit/cmd.Version=$(VERSION)' -X 'github.com/hi-donwi/OPS-Toolkit/cmd.GitCommit=$(COMMIT)' -X 'github.com/hi-donwi/OPS-Toolkit/cmd.BuildDate=$(DATE)'
+LDFLAGS = -s -w -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.Version=$(VERSION)' -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.GitCommit=$(COMMIT)' -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.BuildDate=$(DATE)'
 
 .PHONY: all build test clean build-linux run help licenses licenses-check
 

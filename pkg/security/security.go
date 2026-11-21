@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // AuditSSHConfig inspects sshd_config on Linux hosts for secure defaults.

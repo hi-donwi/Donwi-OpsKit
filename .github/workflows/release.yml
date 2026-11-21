@@ -62,9 +62,9 @@ jobs:
           # -trimpath strips local filesystem paths so the same source and tag
           # produce the same bytes on any builder.
           LDFLAGS="-s -w \
-            -X 'github.com/hi-donwi/OPS-Toolkit/cmd.Version=${TAG_NAME}' \
-            -X 'github.com/hi-donwi/OPS-Toolkit/cmd.GitCommit=${COMMIT}' \
-            -X 'github.com/hi-donwi/OPS-Toolkit/cmd.BuildDate=${BUILD_DATE}'"
+            -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.Version=${TAG_NAME}' \
+            -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.GitCommit=${COMMIT}' \
+            -X 'github.com/hi-donwi/Donwi-OpsKit/cmd.BuildDate=${BUILD_DATE}'"
 
           for target in linux/amd64 linux/arm64 darwin/amd64 darwin/arm64; do
             GOOS="${target%/*}"

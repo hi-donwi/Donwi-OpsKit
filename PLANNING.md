@@ -1,6 +1,6 @@
 # Engineering notes: `opskit` (OPS Toolkit)
 
-> Module: `github.com/hi-donwi/OPS-Toolkit`
+> Module: `github.com/hi-donwi/Donwi-OpsKit`
 > Last reconciled with the code: 2026-09-01
 
 These are the design notes — what the tool is for, what it's built on, and why
