@@ -1,5 +1,5 @@
 name: 'opskit SRE Verification Action'
-description: 'OPS Toolkit automated pre-flight and post-deployment SRE health and security quality gate'
+description: 'DONWI OpsKit automated pre-flight and post-deployment SRE health and security quality gate'
 author: 'Doni Wicaksono'
 branding:
   icon: 'activity'

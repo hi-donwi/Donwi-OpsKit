@@ -266,7 +266,7 @@ func (m Model) View() string {
 	var b strings.Builder
 
 	// Title Bar
-	b.WriteString(titleStyle.Render(" opskit — OPS Toolkit Operations Dashboard ") + "\n")
+	b.WriteString(titleStyle.Render(" opskit — DONWI OpsKit Operations Dashboard ") + "\n")
 
 	if m.report == nil {
 		if m.loading {
