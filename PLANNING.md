@@ -1,4 +1,4 @@
-# Engineering notes: `opskit` (OPS Toolkit)
+# Engineering notes: `opskit` (DONWI OpsKit)
 
 > Module: `github.com/hi-donwi/Donwi-OpsKit`
 > Last reconciled with the code: 2026-09-01
