@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 func (e *Engine) checkDataServices(ctx context.Context) []model.Finding {

@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/daemon"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/daemon"
 	"github.com/spf13/cobra"
 )
 

@@ -5,11 +5,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/analyzer"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/detector"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/report"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/security"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/analyzer"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/detector"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/report"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/security"
 	"github.com/spf13/cobra"
 )
 

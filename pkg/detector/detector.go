@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // Detect probes the current host to identify OS, distro, and active container/cluster deployments.

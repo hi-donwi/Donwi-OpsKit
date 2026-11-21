@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/analyzer"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/detector"
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/analyzer"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/detector"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // MetricsServer serves Prometheus metrics over HTTP.

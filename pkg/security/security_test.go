@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 func TestAuditCertEndpointHandlesUnreachableTarget(t *testing.T) {

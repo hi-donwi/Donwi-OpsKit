@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 func writeRule(t *testing.T, dir, name, body string) {

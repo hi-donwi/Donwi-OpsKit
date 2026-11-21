@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // k8sTimeout bounds each kubectl call. An unreachable API server otherwise

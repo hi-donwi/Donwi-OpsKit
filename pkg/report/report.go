@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/model"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/model"
 )
 
 // PrintConsole prints the diagnostic report to stdout with clean SRE formatting.

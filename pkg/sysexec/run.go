@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hi-donwi/OPS-Toolkit/pkg/ai"
+	"github.com/hi-donwi/Donwi-OpsKit/pkg/ai"
 )
 
 // DefaultTimeout bounds a single external command invocation.

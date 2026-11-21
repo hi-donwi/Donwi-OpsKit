@@ -32,7 +32,7 @@ runs:
         OPSKIT_VERSION: ${{ inputs.version }}
       run: |
         set -euo pipefail
-        curl -fsSL https://raw.githubusercontent.com/hi-donwi/OPS-Toolkit/main/install.sh -o /tmp/opskit-install.sh
+        curl -fsSL https://raw.githubusercontent.com/hi-donwi/Donwi-OpsKit/main/install.sh -o /tmp/opskit-install.sh
         OPSKIT_VERSION="$OPSKIT_VERSION" bash /tmp/opskit-install.sh
 
     - name: Execute opskit Quality Gate

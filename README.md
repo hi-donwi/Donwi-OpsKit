@@ -1,6 +1,6 @@
-# opskit — OPS Toolkit
+# opskit — DONWI OpsKit
 
-[![CI](https://github.com/hi-donwi/OPS-Toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/hi-donwi/OPS-Toolkit/actions/workflows/ci.yml)
+[![CI](https://github.com/hi-donwi/Donwi-OpsKit/actions/workflows/ci.yml/badge.svg)](https://github.com/hi-donwi/Donwi-OpsKit/actions/workflows/ci.yml)
 [![Go](https://img.shields.io/badge/Go-1.25%2B-00ADD8?logo=go)](https://go.dev)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)]()
@@ -96,7 +96,7 @@ for why.
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/hi-donwi/OPS-Toolkit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/hi-donwi/Donwi-OpsKit/main/install.sh | bash
 ```
 
 The installer picks the binary for your platform and checks its SHA-256 against
